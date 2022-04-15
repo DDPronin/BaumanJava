@@ -1,6 +1,6 @@
 public class Wheel {
-    String name;
-    double radius;
+    private String name;
+    private double radius;
 
     public Wheel(String name, double radius) {
         this.name = name;

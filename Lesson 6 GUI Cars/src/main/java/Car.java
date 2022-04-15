@@ -1,6 +1,6 @@
 public class Car {
-    String name;
-    Wheel wheel;
+    private String name;
+    private Wheel wheel;
 
     public Car(String name, Wheel wheel) {
         this.name = name;
